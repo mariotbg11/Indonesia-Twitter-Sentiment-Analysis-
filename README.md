@@ -4,3 +4,7 @@
 - **Scraping Tools :** using **Snscrape** for scraping data tweet : https://github.com/JustAnotherArchivist/snscrape
 - **Extract Feature :** `TF-IDF`
 - **Classifier :** `SVM Linear`
+
+# Installation
+
+- nltk, numpy, scikit-learn, snscrape, matplotlib, seaborn
